@@ -1,4 +1,4 @@
-# emogif
+## emogif
 ### A GIF for every emotion.
 
 Do you want a GIF? All you need to do is open the extension and type
